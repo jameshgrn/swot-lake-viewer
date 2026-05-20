@@ -3,7 +3,7 @@
 A simple Streamlit viewer for NASA SWOT satellite measurements of two lakes
 near Lacey, Washington.
 
-**Live app**: https://swot-lake-viewer.streamlit.app/ *(deployment pending)*
+**Live app**: https://swot-lake-viewer.streamlit.app/
 
 ## What it shows
 
